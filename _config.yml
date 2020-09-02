@@ -9,7 +9,7 @@ author:
   email:            ClearlyElevated@iCloud.com
 
 # GitHub Pages / Jekyll configuration
-baseurl:            'scannerradio.github.io'
+baseurl:            ''
 permalink:          /:title/
 paginate:           5
 defaults:
