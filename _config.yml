@@ -1,15 +1,15 @@
-title:              Blog
-tagline:            on GitHub Pages
-description:        Content-focused template for a blog hosted on GitHub Pages.
-url:                http://ScannerRadio.github.io
+title:              NolansBlogs
+tagline:            Accurate, Curated
+description:        Global, Local & International News.
+url:                http://scannerradio.github.io
 
 author:
-  name:             Your Name
-  url:              https://twitter.com/YourName
-  email:            YourName@gmail.com
+  name:             Nolan Tanzman
+  url:              https://twitter.com/JewHefner_
+  email:            ClearlyElevated@iCloud.com
 
 # GitHub Pages / Jekyll configuration
-baseurl:            ''
+baseurl:            'scannerradio.github.io'
 permalink:          /:title/
 paginate:           5
 defaults:
